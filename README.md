@@ -10,6 +10,14 @@ To do this we'll use a simple two layer neural network.
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
+#### The files in repository are -
+
+* project_bikesharing.ipynb - Jupyter Notebook (Main Project)
+* environment.yaml          - Environment for the project
+* requirements.txt          - Incase you don't you conda
+* model.py                  - Neural Network for the project
+* Bike-Sharing-Dataset      - Dataset for the project (UCI Machine Learning Database). 
+
 
 
 
