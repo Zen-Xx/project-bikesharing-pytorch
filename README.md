@@ -5,6 +5,6 @@ Imagine that you own a bikesharing company. You want to predict how many bikes y
 To do this we'll use a simple two layer neural network.
 
 <img src="assets/neural_network.png" width=300px>
-  
 
-Project under Udacity Nanodegree Program
+
+####Project under Udacity Nanodegree Program
